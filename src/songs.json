@@ -1,33 +1,33 @@
 [{
 		"artist": "Rob Berrones",
-		"songtitle": "LBC Vibes"
+		"title": "LBC Vibes"
 	},
 	{
 		"artist": "Rob Berrones",
-		"songtitle": "The Blue Line"
+		"title": "The Blue Line"
 	},
 	{
 		"artist": "MCST",
-		"songtitle": "Timelines"
+		"title": "Timelines"
 	},
 	{
 		"artist": "MCST",
-		"songtitle": "LGFUAD"
+		"title": "LGFUAD"
 	},
 	{
 		"artist": "Reel Big Fish",
-		"songtitle": "Sell Out"
+		"title": "Sell Out"
 	},
 	{
 		"artist": "Reel Big Fish",
-		"songtitle": "Drunk Again"
+		"title": "Drunk Again"
 	},
 	{
 		"artist": "Arms Akimbo",
-		"songtitle": "Pitchfork"
+		"title": "Pitchfork"
 	},
 	{
 		"artist": "Arms Akimbo",
-		"songtitle": "Devil"
+		"title": "Devil"
 	}
 ]
